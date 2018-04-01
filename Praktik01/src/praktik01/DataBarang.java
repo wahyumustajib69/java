@@ -15,7 +15,16 @@ public class DataBarang {
    double harga_jual,harga_beli,diskon,total,bayar;
    
    void cetakhasil(){
-   
+       System.out.println("Data Barang");
+       System.out.println("Kode Barang  : "+kode);
+       System.out.println("Nama Barang  : "+nama);
+       System.out.println("Kategori     : "+kategori);
+       System.out.println("Jumlah       : "+jumlah);
+       System.out.println("Harga Beli   : "+harga_jual);
+       System.out.println("Harga Jual   : "+harga_beli);
+       System.out.println("Diskon       : "+diskon);
+       System.out.println("Total Harga  : "+total);
+       System.out.println("Total Bayar  : "+bayar);
    }
     
 }

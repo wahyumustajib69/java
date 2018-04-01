@@ -15,5 +15,7 @@ public class RealMadridAksi {
         LaLiga.pemilik="Florentino Perez";
         LaLiga.pelatih="Zinedine Zidane";
         LaLiga.ucl=12;
+        
+        LaLiga.cetakinfo();
     }
 }

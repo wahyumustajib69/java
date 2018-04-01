@@ -1,5 +1,4 @@
 public class RealMadrid {
-    public static void main(String[] args) {
         String pemilik;
         String pelatih;
         int ucl;
@@ -10,6 +9,6 @@ public class RealMadrid {
             System.out.println("Juara UCL   :" +pemilik);
         }
         
-    }
+   
     
 }

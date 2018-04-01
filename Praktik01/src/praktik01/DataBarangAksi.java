@@ -22,5 +22,7 @@ public class DataBarangAksi {
         Tabel.total=Tabel.jumlah*Tabel.harga_jual;
         Tabel.diskon=0.2;
         Tabel.bayar=Tabel.total*Tabel.diskon;
+        
+        Tabel.cetakhasil();
     }
 }

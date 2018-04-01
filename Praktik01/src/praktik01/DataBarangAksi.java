@@ -11,7 +11,7 @@ package praktik01;
  */
 public class DataBarangAksi {
     public static void main(String[]args){
-        DataBarang Tabel = new DataBarang;
+        DataBarang Tabel = new DataBarang();
         
         Tabel.kode ="B0001";
         Tabel.nama ="Beras";

@@ -10,12 +10,12 @@ package praktik01;
  * @author WAHYU'S PC
  */
 public class DataBarang {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-    }
+   String kode,nama,kategori;
+   int jumlah;
+   double harga_jual,harga_beli,diskon,total,bayar;
+   
+   void cetakhasil(){
+   
+   }
     
 }

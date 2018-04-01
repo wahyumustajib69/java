@@ -6,7 +6,7 @@ public class RealMadrid {
         void cetakinfo(){
             System.out.println("Pemilik     :" +pemilik);
             System.out.println("Pelatih     :" +pelatih);
-            System.out.println("Juara UCL   :" +pemilik);
+            System.out.println("Juara UCL   :" +ucl);
         }
         
    

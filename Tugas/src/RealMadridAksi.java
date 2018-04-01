@@ -10,6 +10,6 @@
  */
 public class RealMadridAksi {
     public static void main(String[]args){
-    
+        RealMadrid LaLiga = new RealMadrid();
     }
 }
